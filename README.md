@@ -12,7 +12,7 @@
  Notes
  -----------------------------------------------------------
  Activate virtualenv(win)
- 1. source venv/Scripts/activate
+ 1. >>source venv/Scripts/activate
 
 Handling flask not found by pylance
 1. Firstly, create a virtual environment on your terminal.
@@ -23,3 +23,6 @@ Handling flask not found by pylance
 
 URL for development server:
 http://localhost:5000/
+
+How to exit virtualenv
+>>deactivate
